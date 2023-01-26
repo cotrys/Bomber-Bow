@@ -1,0 +1,9 @@
+main: mc.ymn.rocket.Main
+name: Bomber-Bow
+version: 1.0
+author: YMN
+commands:
+  takebomber:
+    description: You Receive Your Bomber Bow
+    aliases:
+      - takebomber

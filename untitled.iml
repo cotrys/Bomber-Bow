@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="spigot-1.16.4" level="project" />
+<!-- https://mvnrepository.com/artifact/org.jetbrains/annotations -->
+<dependency>
+    <groupId>org.jetbrains</groupId>
+    <artifactId>annotations</artifactId>
+    <version>16.0.1</version>
+</dependency>
+    <dependency>
+        <groupId>org.jetbrains.annotations</groupId>
+        <artifactId>Contract</artifactId>
+        <version>20.1.0</version>
+    </dependency>
+    <dependency>
+       <groupId>org.spigotmc</groupId>
+       <artifactId>spigot-api</artifactId>
+       <version>1.16.4-R0.1-SNAPSHOT</version>
+    </dependency>
+
+  </component>
+</module>
